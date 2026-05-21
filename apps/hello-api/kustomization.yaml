@@ -2,10 +2,10 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 
 resources:
-  - deployment.yaml
-  - service.yaml
+- deployment.yaml
+- service.yaml
 
 images:
-  - name: hello-api
-    newName: ghcr.io/raj-maharjan/hello-api
-    newTag: initial
+- name: hello-api
+  newName: ghcr.io/raj-maharjan/hello-api
+  newTag: 6cfe0231778cb61fccd5d42a7e8c910a37b822a6
