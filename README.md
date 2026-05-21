@@ -9,7 +9,7 @@ path: apps/hello-api
 namespace: default
 ```
 
-Before using this repo, replace `YOUR_GITHUB_USERNAME` in:
+The image path is configured in:
 
 ```text
 apps/hello-api/kustomization.yaml

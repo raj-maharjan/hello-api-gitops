@@ -7,5 +7,5 @@ resources:
 
 images:
   - name: hello-api
-    newName: ghcr.io/YOUR_GITHUB_USERNAME/hello-api
+    newName: ghcr.io/raj-maharjan/hello-api
     newTag: initial
