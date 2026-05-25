@@ -8,4 +8,4 @@ resources:
 images:
 - name: hello-api
   newName: ghcr.io/raj-maharjan/hello-api
-  newTag: 6cfe0231778cb61fccd5d42a7e8c910a37b822a6
+  newTag: ebb09759302315e18465696456cc1ea1de63f74d
